@@ -160,10 +160,11 @@ hr.small {
 /* Header */
 
 .header {
+    text-shadow: 0 0 3px #ffffff;
     display: table;
     position: relative;
     width: 100%;
-    height: 75%;
+    height: 100%;
     background: url(../img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;

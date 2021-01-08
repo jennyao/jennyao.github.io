@@ -164,7 +164,12 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #112679;
+  text-decoration: underline;
+}
+
+a:link {
+  color: #1b7911;
   text-decoration: underline;
 }
 
